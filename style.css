@@ -1,0 +1,91 @@
+.title
+{
+    display: flex;
+    position: relative;
+    flex-direction: column;
+}
+
+.icon
+{
+    width:90px;
+    margin:auto;
+}
+
+.title > p
+{
+    color: red;
+    margin:auto;
+}
+
+.title > input
+{
+    width: 400px;
+    margin:auto;
+    margin-bottom: 30px;
+}
+
+.card1
+{
+  
+   width: 1000px;
+    display: flex;
+    flex-direction: row;
+    
+    margin: auto;
+
+}
+
+#bride
+{
+    width: 300px;
+    height:400px;
+    margin-left: 40px;
+    align-items: center;
+    
+    border-radius: 20px;
+}
+
+.card2
+{
+
+    display: flex;
+   
+}
+
+#jw
+{
+    border-radius: 20px;
+    width: 200px;
+    height: 250px;
+    margin-top: 30px;
+   margin-left: 120px;
+}
+
+.content
+{
+    margin-top: 80px;
+   
+    display: flex;
+}
+
+#btn
+{
+    margin-left: 40px;
+    border-radius: 50px;
+    padding: 20px;
+    width: 200px;
+}
+
+.social
+{
+    display: flex;
+   margin-bottom: 50px;
+}
+
+#account
+{
+    width: 40px;
+    margin-left: 50px;
+    border-radius: 30px;
+
+}
